@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1512_101_T48_601211111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1512.101</ph> Unenforceability of unauthorized obligations.</title>
+      <conbody>
+         <p xtrc="P">EPA deviates from FAR 52.212-4 by using the term <i>Commercial Supplier Agreements</i> (defined in 1502.100) for commercial contracts instead of <i>supplier license agreements</i>. Paragraph (u) of clause 1552.332-39 (FAR DEVIATION) prevents violations of the <i>Anti-Deficiency Act</i> (31 U.S.C. 1341) for the acquisition of supplies or services subject to a Commercial Supplier Agreement.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

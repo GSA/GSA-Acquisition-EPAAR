@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1513_507_T48_601312312">
+      <title class="- topic/title ">
+         <ph props="autonumber">1513.507</ph> Contract clauses.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)(i) It is the general policy of the Environmental Protection Agency that contractor or vendor prescribed leases or maintenance agreements for equipment shall not be executed.
+</p>
+         <p outputclass="List2">(ii) The contracting officer shall, where appropriate, insert the clause at 1552.213-70, <i>Notice to Suppliers of Equipment,</i> in orders for purchases or leases of automatic data processing equipment, word processing, and similar types of commercially available equipment for which vendors, as a matter of routine commercial practice, have developed their own leases and/or customer service maintenance agreements.
+</p>
+         <p outputclass="List1">(b) Where the supplies or services are offered under a Commercial Supplier Agreement (as defined in 1502.100), the purchase order or modification shall incorporate clause 1552.332-39, <i>Unenforceability of Unauthorized Obligations</i> (FAR DEVIATION), in lieu of nondeviated clause 52.232-39, and clause 1552.232-75, <i>Commercial Supplier Agreements-Unenforceable Clauses</i>.
+</p>
+      </conbody>
+   </concept>
+</dita>

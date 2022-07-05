@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_216_73_T48_6018381134">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.216-73</ph> Fixed rates for services - indefinite delivery/indefinite quantity contract.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1516.505(b), insert the following clause:
+</p>
+                                 <p xtrc="HD1">Fixed Rates for Services - Indefinite Delivery/Indefinite Quantity Contract (OCT 2021)
+</p>
+                                 <p outputclass="List1">(a) The following fixed rates shall apply for payment purposes for the duration of the contact.
+</p>
+                                 <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Personnel classification
+</entry>
+                                             <entry colname="2">Skill level
+</entry>
+                                             <entry colname="3">Fixed hourly rate
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> 
+</entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+                                 <p outputclass="List1">(b) The rate, or rates, set forth in paragraph (a) of this section cover all expenses, including report preparation, salaries, overhead, general and administrative expenses, and profit.
+</p>
+                                 <p outputclass="List1">(c) The Contractor shall voucher for only the time of the personnel whose services are applied directly to the work called for in individual Orders and accepted by the EPA Contracting Officer's Representative (COR). The Government shall pay the Contractor for the life of the Order at rates in effect when the Order was issued, even if performance under the Order crosses into another period. The Contractor shall maintain time and labor distribution records for all employees who work under the contract. These records must document time worked and work performed by each individual on all Orders.</p>
+                              <p xtrc="HD2">(End of Clause)
+</p>
+                                 <p xtrc="P">
+                                    <i>Alternate I</i> (<i>date</i>). As prescribed in 1515.505(b), modify the Basic form of the clause by changing paragraph (c) to the following:
+</p>
+                                 <p outputclass="List1">(c) The Contractor shall voucher for only the time of the personnel whose services are applied directly to the work called for in individual Orders and accepted by the EPA Contracting Officer's Representative (COR). The Government shall pay the Contractor at rates in effect when the work is performed by the Contractor. The Contractor shall maintain time and labor distribution records for all employees who work under the contract. These records must document time worked and work performed by each individual on all Orders.</p>
+                              </conbody>
+   </concept>
+</dita>

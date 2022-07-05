@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1539_T48_601633">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1539</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 41 U.S.C. 418b.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           85 FR 46558, Aug. 3, 2020, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1539_1_T48_6016331.dita#Subpart_1539_1_T48_6016331">Subpart 1539.1 - Commercial Supplier Agreements</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1539_2_T48_6016332.dita#Subpart_1539_2_T48_6016332">Subpart 1539.2 - Open Source Software</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section__1539_2071_T48_601633211.dita#Section__1539_2071_T48_601633211">§ 1539.2071   Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

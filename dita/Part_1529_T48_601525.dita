@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1529_T48_601525">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1529</ph> - TAXES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 41 U.S.C. 418b.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           54 FR 49998, Dec. 4, 1989, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1529_3_T48_6015251.dita#Subpart_1529_3_T48_6015251">Subpart 1529.3 - State and Local Taxes</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1529_303_T48_601525111.dita#Section_1529_303_T48_601525111">1529.303 Application of State and local taxes to Government contractors and subcontractors.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1529_4_T48_6015252.dita#Subpart_1529_4_T48_6015252">Subpart 1529.4 [Reserved]</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
