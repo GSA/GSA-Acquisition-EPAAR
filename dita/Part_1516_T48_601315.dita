@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1516_T48_601315">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1516</ph> - TYPES OF CONTRACTS</title>
+      <title class="- topic/title ">PART 1516—TYPES OF CONTRACTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,13 +24,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1516_3_T48_6013151.dita#Subpart_1516_3_T48_6013151">Subpart 1516.3 - Cost-Reimbursement Contracts</xref>
+                        href="Subpart_1516_3_T48_6013151.dita#Subpart_1516_3_T48_6013151">Subpart 1516.3—Cost-Reimbursement Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_301_70_T48_601315111.dita#Section_1516_301_70_T48_601315111">1516.301-70 Payment of fee.</xref>
+                              href="Section_1516_301-70_T48_601315111.dita#Section_1516_301-70_T48_601315111">1516.301-70 Payment of fee.</xref>
                      </p>
                   </li>
                   <li>
@@ -42,43 +42,43 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_71_T48_601315113.dita#Section_1516_303_71_T48_601315113">1516.303-71 Definition.</xref>
+                              href="Section_1516_303-71_T48_601315113.dita#Section_1516_303-71_T48_601315113">1516.303-71 Definition.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_72_T48_601315114.dita#Section_1516_303_72_T48_601315114">1516.303-72 Policy.</xref>
+                              href="Section_1516_303-72_T48_601315114.dita#Section_1516_303-72_T48_601315114">1516.303-72 Policy.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_73_T48_601315115.dita#Section_1516_303_73_T48_601315115">1516.303-73 Types of cost-sharing.</xref>
+                              href="Section_1516_303-73_T48_601315115.dita#Section_1516_303-73_T48_601315115">1516.303-73 Types of cost-sharing.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_74_T48_601315116.dita#Section_1516_303_74_T48_601315116">1516.303-74 Determining the value of in-kind contributions.</xref>
+                              href="Section_1516_303-74_T48_601315116.dita#Section_1516_303-74_T48_601315116">1516.303-74 Determining the value of in-kind contributions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_75_T48_601315117.dita#Section_1516_303_75_T48_601315117">1516.303-75 Amount of cost-sharing.</xref>
+                              href="Section_1516_303-75_T48_601315117.dita#Section_1516_303-75_T48_601315117">1516.303-75 Amount of cost-sharing.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_76_T48_601315118.dita#Section_1516_303_76_T48_601315118">1516.303-76 Fee on cost-sharing contracts by subcontractors.</xref>
+                              href="Section_1516_303-76_T48_601315118.dita#Section_1516_303-76_T48_601315118">1516.303-76 Fee on cost-sharing contracts by subcontractors.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_303_77_T48_601315119.dita#Section_1516_303_77_T48_601315119">1516.303-77 Administrative requirements.</xref>
+                              href="Section_1516_303-77_T48_601315119.dita#Section_1516_303-77_T48_601315119">1516.303-77 Administrative requirements.</xref>
                      </p>
                   </li>
                   <li>
@@ -98,49 +98,49 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1516_4_T48_6013152.dita#Subpart_1516_4_T48_6013152">Subpart 1516.4 - Incentive Contracts</xref>
+                        href="Subpart_1516_4_T48_6013152.dita#Subpart_1516_4_T48_6013152">Subpart 1516.4—Incentive Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_401_1_T48_601315211.dita#Section_1516_401_1_T48_601315211">1516.401-1 General.</xref>
+                              href="Section_1516_401-1_T48_601315211.dita#Section_1516_401-1_T48_601315211">1516.401-1 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_401_70_T48_601315212.dita#Section_1516_401_70_T48_601315212">1516.401-70 Award term incentives.</xref>
+                              href="Section_1516_401-70_T48_601315212.dita#Section_1516_401-70_T48_601315212">1516.401-70 Award term incentives.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_401_270_T48_601315213.dita#Section_1516_401_270_T48_601315213">1516.401-270 Definition.</xref>
+                              href="Section_1516_401-270_T48_601315213.dita#Section_1516_401-270_T48_601315213">1516.401-270 Definition.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_405_2_T48_601315214.dita#Section_1516_405_2_T48_601315214">1516.405-2 Cost-plus-award-fee contracts.</xref>
+                              href="Section_1516_405-2_T48_601315214.dita#Section_1516_405-2_T48_601315214">1516.405-2 Cost-plus-award-fee contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_405_270_T48_601315215.dita#Section_1516_405_270_T48_601315215">1516.405-270 Definitions.</xref>
+                              href="Section_1516_405-270_T48_601315215.dita#Section_1516_405-270_T48_601315215">1516.405-270 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_405_271_T48_601315216.dita#Section_1516_405_271_T48_601315216">1516.405-271 Limitations.</xref>
+                              href="Section_1516_405-271_T48_601315216.dita#Section_1516_405-271_T48_601315216">1516.405-271 Limitations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_405_272_T48_601315217.dita#Section_1516_405_272_T48_601315217">1516.405-272 Waiver.</xref>
+                              href="Section_1516_405-272_T48_601315217.dita#Section_1516_405-272_T48_601315217">1516.405-272 Waiver.</xref>
                      </p>
                   </li>
                   <li>
@@ -154,7 +154,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1516_5_T48_6013153.dita#Subpart_1516_5_T48_6013153">Subpart 1516.5 - Indefinite-Delivery Contracts</xref>
+                        href="Subpart_1516_5_T48_6013153.dita#Subpart_1516_5_T48_6013153">Subpart 1516.5—Indefinite-Delivery Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -168,7 +168,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1516_6_T48_6013154.dita#Subpart_1516_6_T48_6013154">Subpart 1516.6 - Time-and-Materials, Labor-Hour, and Letter Contracts</xref>
+                        href="Subpart_1516_6_T48_6013154.dita#Subpart_1516_6_T48_6013154">Subpart 1516.6—Time-and-Materials, Labor-Hour, and Letter Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -180,19 +180,19 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_603_1_T48_601315412.dita#Section_1516_603_1_T48_601315412">1516.603-1 What is a Notice to Proceed?</xref>
+                              href="Section_1516_603-1_T48_601315412.dita#Section_1516_603-1_T48_601315412">1516.603-1 What is a Notice to Proceed?</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_603_2_T48_601315413.dita#Section_1516_603_2_T48_601315413">1516.603-2 What are the requirements for use of an NTP?</xref>
+                              href="Section_1516_603-2_T48_601315413.dita#Section_1516_603-2_T48_601315413">1516.603-2 What are the requirements for use of an NTP?</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1516_603_3_T48_601315414.dita#Section_1516_603_3_T48_601315414">1516.603-3 Limitations.</xref>
+                              href="Section_1516_603-3_T48_601315414.dita#Section_1516_603-3_T48_601315414">1516.603-3 Limitations.</xref>
                      </p>
                   </li>
                </ul>

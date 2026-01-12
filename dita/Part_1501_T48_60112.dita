@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1501_T48_60112">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1501</ph> - GENERAL</title>
+      <title class="- topic/title ">PART 1501—GENERAL
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -28,7 +28,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1501_1_T48_601121.dita#Subpart_1501_1_T48_601121">Subpart 1501.1 - Purpose, Authority, Issuance</xref>
+                        href="Subpart_1501_1_T48_601121.dita#Subpart_1501_1_T48_601121">Subpart 1501.1—Purpose, Authority, Issuance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -52,19 +52,19 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1501_105_1_T48_60112114.dita#Section_1501_105_1_T48_60112114">1501.105-1 Publication and code arrangement.</xref>
+                              href="Section_1501_105-1_T48_60112114.dita#Section_1501_105-1_T48_60112114">1501.105-1 Publication and code arrangement.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1501_105_2_T48_60112115.dita#Section_1501_105_2_T48_60112115">1501.105-2 Arrangement of regulations.</xref>
+                              href="Section_1501_105-2_T48_60112115.dita#Section_1501_105-2_T48_60112115">1501.105-2 Arrangement of regulations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1501_105_3_T48_60112116.dita#Section_1501_105_3_T48_60112116">1501.105-3 Copies.</xref>
+                              href="Section_1501_105-3_T48_60112116.dita#Section_1501_105-3_T48_60112116">1501.105-3 Copies.</xref>
                      </p>
                   </li>
                </ul>
@@ -72,7 +72,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1501_3_T48_601122.dita#Subpart_1501_3_T48_601122">Subpart 1501.3 - Agency Acquisition Regulations</xref>
+                        href="Subpart_1501_3_T48_601122.dita#Subpart_1501_3_T48_601122">Subpart 1501.3—Agency Acquisition Regulations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -92,7 +92,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1501_4_T48_601123.dita#Subpart_1501_4_T48_601123">Subpart 1501.4 - Deviations</xref>
+                        href="Subpart_1501_4_T48_601123.dita#Subpart_1501_4_T48_601123">Subpart 1501.4—Deviations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -118,13 +118,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1501_6_T48_601124.dita#Subpart_1501_6_T48_601124">Subpart 1501.6 - Contracting Authority and Responsibilities</xref>
+                        href="Subpart_1501_6_T48_601124.dita#Subpart_1501_6_T48_601124">Subpart 1501.6—Contracting Authority and Responsibilities</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1501_602_3_T48_60112411.dita#Section_1501_602_3_T48_60112411">1501.602-3 Ratification of unauthorized commitments.</xref>
+                              href="Section_1501_602-3_T48_60112411.dita#Section_1501_602-3_T48_60112411">1501.602-3 Ratification of unauthorized commitments.</xref>
                      </p>
                   </li>
                   <li>
@@ -136,7 +136,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1501_603_1_T48_60112413.dita#Section_1501_603_1_T48_60112413">1501.603-1 General.</xref>
+                              href="Section_1501_603-1_T48_60112413.dita#Section_1501_603-1_T48_60112413">1501.603-1 General.</xref>
                      </p>
                   </li>
                </ul>

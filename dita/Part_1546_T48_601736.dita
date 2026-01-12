@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1546_T48_601736">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1546</ph> - QUALITY ASSURANCE</title>
+      <title class="- topic/title ">PART 1546—QUALITY ASSURANCE
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -17,7 +17,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1546_7_T48_6017361.dita#Subpart_1546_7_T48_6017361">Subpart 1546.7 - Warranties</xref>
+                        href="Subpart_1546_7_T48_6017361.dita#Subpart_1546_7_T48_6017361">Subpart 1546.7—Warranties</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
