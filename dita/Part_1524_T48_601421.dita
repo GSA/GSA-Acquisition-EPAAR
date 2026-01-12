@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1524_T48_601421">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1524</ph> - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION</title>
+      <title class="- topic/title ">PART 1524—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -17,7 +17,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1524_1_T48_6014211.dita#Subpart_1524_1_T48_6014211">Subpart 1524.1 - Protection of Individual Privacy</xref>
+                        href="Subpart_1524_1_T48_6014211.dita#Subpart_1524_1_T48_6014211">Subpart 1524.1—Protection of Individual Privacy</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,7 +31,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1524_2_T48_6014212.dita#Subpart_1524_2_T48_6014212">Subpart 1524.2 - Freedom of Information Act [Reserved]</xref>
+                        href="Subpart_1524_2_T48_6014212.dita#Subpart_1524_2_T48_6014212">Subpart 1524.2—Freedom of Information Act [Reserved]</xref>
                </p>
             </li>
          </ul>

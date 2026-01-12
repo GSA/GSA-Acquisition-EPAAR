@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1536_T48_601631">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1536</ph> - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS</title>
+      <title class="- topic/title ">PART 1536—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,7 +24,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1536_2_T48_6016311.dita#Subpart_1536_2_T48_6016311">Subpart 1536.2 - Special Aspects of Contracting for Construction</xref>
+                        href="Subpart_1536_2_T48_6016311.dita#Subpart_1536_2_T48_6016311">Subpart 1536.2—Special Aspects of Contracting for Construction</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -38,7 +38,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1536_5_T48_6016312.dita#Subpart_1536_5_T48_6016312">Subpart 1536.5 - Contract Clauses</xref>
+                        href="Subpart_1536_5_T48_6016312.dita#Subpart_1536_5_T48_6016312">Subpart 1536.5—Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -52,7 +52,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1536_6_T48_6016313.dita#Subpart_1536_6_T48_6016313">Subpart 1536.6 - Architect-Engineer Services</xref>
+                        href="Subpart_1536_6_T48_6016313.dita#Subpart_1536_6_T48_6016313">Subpart 1536.6—Architect-Engineer Services</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -64,7 +64,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1536_602_2_T48_601631312.dita#Section_1536_602_2_T48_601631312">1536.602-2 Establishment of evaluation boards.</xref>
+                              href="Section_1536_602-2_T48_601631312.dita#Section_1536_602-2_T48_601631312">1536.602-2 Establishment of evaluation boards.</xref>
                      </p>
                   </li>
                </ul>
